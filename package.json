@@ -1,0 +1,11 @@
+{
+  "name": "gosquared-flags",
+  "version": "1.0.0",
+  "description": "GoSquared's Flag Icon Set",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raicheff/flags.git"
+  },
+  "author": "GoSquared",
+  "license": "MIT"
+}
